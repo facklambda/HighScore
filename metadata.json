@@ -1,0 +1,7 @@
+{
+    "name": "HighScore",
+    "description": "HighScore mod for RoRML\nAdds a HighScore screen as part of the RoRCADE Suite.",
+	"internalname": "highscore",
+    "version": "0.0.1",
+    "author": "fack",
+}
